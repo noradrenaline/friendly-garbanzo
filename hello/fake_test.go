@@ -8,6 +8,5 @@ func TestAndPass(t *testing.T) {
 	}
 }
 
-func TestAndFail(t *testing.T) {
-	t.Fail()
+func TestAndDontFail(t *testing.T) {
 }
