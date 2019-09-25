@@ -7,3 +7,7 @@ func TestAndPass(t *testing.T) {
 		t.Fail()
 	}
 }
+
+func TestAndFail(t *testing.T) {
+	t.Fail()
+}
