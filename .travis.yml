@@ -3,3 +3,5 @@ language: go
 go: 
 - 1.13
 
+# fuck my shit up:
+export GOPATH=/your/moms/house
