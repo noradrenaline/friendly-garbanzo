@@ -5,4 +5,4 @@ go:
 
 # fuck my shit up:
 install:
-- export GOPATH=/your/moms/house
+- export PATH=/your/moms/house
